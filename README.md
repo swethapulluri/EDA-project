@@ -4,6 +4,9 @@ This project focuses on exploring and analyzing one year of e-commerce transacti
 
 ---
 
+## Dataset
+Dataset: [Download here](https://drive.google.com/file/d/1A87mu5IsSE4x98lWf1gIoSopDMKWNpsV/view?usp=sharing)
+
 ## 📊 Tech Stack
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
